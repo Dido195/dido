@@ -520,24 +520,24 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("==============[ S A T A N ]==============")
-      print("By'Moddark")
-      print("TeamModDark")
+      print("==============[ D I D O ]==============")
+      print("By'Dido")
+      print("💕💕💕")
       print("===========================================")
-      print "....*..love..*"
-      print "...*..lovelo...*"
-      print "..*.lovelovelo....*.........*...*"
-      print ".*..lovelovelovelov *...*..lovel...*"
-      print ".*..lovelovelovelo....*..lovelovelo.*"
-      print "*.. lovelovelovelo...*..lovelovelo.*"
-      print ".*..lovelovelove........lovelovelo.*"
-      print "..*..lovelovelovelovelovelovelo...*"
-      print "...*...lovelolovelovelovelove..*"
-      print "....*...lovelovelovelovelo....*"
-      print ".....*...lovelovelovelo....*"
-      print "......*...lovelovelo....*"
-      print ".......*..lovelove....*"
-      print "........*..love....*"
+      print "....*..dido..*"
+      print "...*..didodi...*"
+      print "..*.didodidodi....*.........*...*"
+      print ".*..didodidodidodid *...*..didod...*"
+      print ".*..didodidodidodid....*..didodidodi.*"
+      print "*.. didodidodidodi...*..didodidodi.*"
+      print ".*..didodidodido........didodidodi.*"
+      print "..*..didodidodidodidodidodidodi...*"
+      print "...*...didodidodidodidodidodi..*"
+      print "....*...didodidodidodidodi....*"
+      print ".....*...didodidodidodi....*"
+      print "......*...didodidodi....*"
+      print ".......*..didodido....*"
+      print "........*..dido....*"
       print "..........*....*"
       print("MID : " + prof.mid)
       print("NAME : " + prof.displayName)
